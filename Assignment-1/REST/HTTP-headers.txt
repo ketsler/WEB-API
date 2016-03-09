@@ -1,0 +1,44 @@
+Kyle Etsler
+WEB API
+2/13/2016
+Assignment 1
+
+alt-svc -->		 			quic=":443"; ma=604800; v="30,29,28,27,26,25"
+alternate-protocol -->		443:quic,p=1
+cache-control --> 			private, max-age=0, must-revalidate, no-transform
+content-encoding --> 		gzip
+content-length --> 			6758
+content-type --> 			application/json; charset=UTF-8
+date --> 					Sat, 13 Feb 2016 22:52:32 GMT
+etag --> 					"3z2GbiG39NRdo416x8jooTTBAqY/KB49s9lZSdjpNL079VmeE0rO2gs"
+expires --> 				Sat, 13 Feb 2016 22:52:32 GMT
+server --> 					GSE
+status --> 					200
+vary --> 					Origin, X-Origin
+x-content-type-options -->  nosniff
+x-frame-options --> 		SAMEORIGIN
+x-xss-protection --> 		1; mode=block
+
+
+What they mean...
+
+alt-svc -->		 			this indicates that SSL certoficate can be bypassed and sent to another server	
+alternate-protocol -->		in this example, the alternative protocal is Quick UDP Internet Connections. It provides equivalent secruity protection to TLS/SSL
+cache-control --> 			The Cache-Control general-header field is used to specify directives that MUST be obeyed by all caching mechanisms along the request/response chain. The directives specify behavior intended to prevent caches from adversely interfering with the request or response. 
+								These directives typically override the default caching algorithms. Cache directives are unidirectional in that the presence of a directive in a request does not imply that the same directive is to be given in the response.
+content-encoding --> 		This header is used as a modifier to the media-type. When present, its value indicates what additional content codings have been applied to the entity-body, and thus what decoding mechanisms must be applied in order to obtain the media-type referenced by the 
+								Content-Type header field. Content-Encoding is primarily used to allow a document to be compressed without losing the identity of its underlying media type.
+content-length --> 			This field indicates the size of the entity-body, in decimal number of OCTETs, sent to the recipient or, in the case of the HEAD method, the size of the entity-body that would have been sent had the request been a GET.
+content-type --> 			This field indicates the media type of the entity-body sent to the recipient or, in the case of the HEAD method, the media type that would have been sent had the request been a GET.
+date --> 					Self explanitory, the date and time of the response.
+etag --> 					The ETag response-header field provides the current value of the entity tag for the requested variant. 
+expires --> 				The Expires entity-header field gives the date/time after which the response is considered stale. A stale cache entry may not normally be returned by a cache (either a proxy cache or a user agent cache) unless it is first validated with the origin server 
+							(or with an intermediate cache that has a fresh copy of the entity).
+server --> 					The Server response-header field contains information about the software used by the origin server to handle the request. The field can contain multiple product tokens (section 3.8) and comments identifying the server and any significant subproducts. 
+								The product tokens are listed in order of their significance for identifying the application.
+status --> 					This is the header field that holds the HTTP status value. As above, 200, this represents "OK" and that the request was accepted.
+vary --> 					The Vary field value indicates the set of request-header fields that fully determines, while the response is fresh, whether a cache is permitted to use the response to reply to a subsequent request without revalidation. For uncacheable or stale responses, the Vary field value advises the user agent about the criteria that were used to select the representation. 
+								A Vary field value of "*" implies that a cache cannot determine from the request headers of a subsequent request whether this response is the appropriate representation.
+x-content-type-options -->  The only defined value, "nosniff", prevents Internet Explorer and Google Chrome from MIME-sniffing a response away from the declared content-type
+x-frame-options --> 		Provides "Clickjacking protection". Values: deny - no rendering within a frame, sameorigin - no rendering if origin mismatch, allow-from: DOMAIN - allow rendering if framed by frame loaded from DOMAIN
+x-xss-protection --> 		This header enables the Cross-site scripting (XSS) filter built into most recent web browsers. It's usually enabled by default anyway, so the role of this header is to re-enable the filter for this particular website if it was disabled by the user.

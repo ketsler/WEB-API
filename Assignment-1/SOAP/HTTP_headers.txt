@@ -1,0 +1,40 @@
+Kyle Etsler
+WEB API
+2/13/2016
+Assignment 1
+
+Below are the 8 headers and their respective value.
+
+
+Cache-Control:		private, max-age=0
+Server:				Microsoft-IIS/7.0
+X-AspNet-Version:	4.0.30319
+#status#:			HTTP/1.1 200 OK
+Content-Length:		515
+Date:				Sat, 13 Feb 2016 22:01:03 GMT
+Content-Type:		application/soap+xml; charset=utf-8
+X-Powered-By:		ASP.NET
+
+
+Cache-Control: this is the header that determines caching intervals, response directives (public/private), or no-caching (no-cache) at all.
+	Sometimes, you can explicity declare (in seconds) how long you want an asset to be valid for, before expring. Here it is max-age = 0, meaning 0 seconds.
+	
+Server: this determines what server technology they are using for their web server. Microsoft IIS/7 is a very common service and it stands for Internet Information Services(IIS)
+	and usually indicates that the server is running on Windows Server 2008 R2.
+	
+X-aspnet-version: This is simply the version of ASP.net the server is on. Headers like this and "X-powered by: " and "X-aspNetmvc-version: " are commonly hidden for security purposes. At the surface, 
+	especially with what we are doing in this class, finding this information is harmless. Most companies do not have to worry about having this information public. However, for less secure servers,
+	this information would be valuable to anyone with malicious intent.
+
+#status#: This is the header that will hold the HTTP status number, that represents what the current status of the request returned as. Here, it is 200 which means that the request was accepted and is "OK". 
+	You can find a list of HTTP status codes here: (https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+	
+Content-Length: Is simply the number of bytes of data in the body of the request or response. The body is the part that comes after the blank line below the headers and is the payload.
+
+Data: Self explanitory, the date and time of the request/response.
+
+Content-Type: The purpose of the Content-Type field is to describe the data contained in the body fully enough that the receiving user agent can pick an appropriate agent or mechanism to present the data to the user, 
+or otherwise deal with the data in an appropriate manner. Will indicate if it is an application, image, audio, text, message, etc.
+
+X-powered-by: This will specify the technology supporting the web application. This one is powered by ASP.net. Other common results would be: PHP, JBoss
+

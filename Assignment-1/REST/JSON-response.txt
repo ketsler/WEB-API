@@ -1,0 +1,772 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 822,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "YvTnoAEACAAJ",
+            "etag": "GJTpNUxg3vI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YvTnoAEACAAJ",
+            "volumeInfo": {
+                "title": "Alan Turing",
+                "subtitle": "The Enigma",
+                "authors": [
+                    "Andrew Hodges"
+                ],
+                "publishedDate": "2014-09-01",
+                "description": "Explores the life of the mathematician, reveals the character of the man behind such concepts as the universal machine and the scientific understanding of the mind, and discusses his pioneering role in electronic computer design.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "069116472X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780691164724"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 768,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 235,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=YvTnoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=YvTnoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=YvTnoAEACAAJ&dq=turing&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=YvTnoAEACAAJ&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing.html?hl=&id=YvTnoAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=YvTnoAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;--Paul Hoffman, author of &quot;The Man Who Loved Only Numbers&quot; &quot;A remarkable and admirable biography.&quot;--Simon Singh, author of &quot;The Code Book and Fermat&#39;s Enigma&quot; &quot;A first-rate presentation of the life of a first-rate scientific mind."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "EpAl0piM38cC",
+            "etag": "hZ/3MapbbCA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/EpAl0piM38cC",
+            "volumeInfo": {
+                "title": "Alan Turing: The Enigma",
+                "authors": [
+                    "Andrew Hodges"
+                ],
+                "publisher": "Random House",
+                "publishedDate": "2012-11-30",
+                "description": "The official book behind the Academy Award-winning film The Imitation Game, starring Benedict Cumberbatch and Keira Knightley Alan Turing was the mathematician whose cipher-cracking transformed the Second World War. Taken on by British Intelligence in 1938, as a shy young Cambridge don, he combined brilliant logic with a flair for engineering. In 1940 his machines were breaking the Enigma-enciphered messages of Nazi Germany’s air force. He then headed the penetration of the super-secure U-boat communications. But his vision went far beyond this achievement. Before the war he had invented the concept of the universal machine, and in 1945 he turned this into the first design for a digital computer. Turing's far-sighted plans for the digital era forged ahead into a vision for Artificial Intelligence. However, in 1952 his homosexuality rendered him a criminal and he was subjected to humiliating treatment. In 1954, aged 41, Alan Turing took his own life.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781448137817"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1448137810"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 768,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.25.21.0.preview.2",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=EpAl0piM38cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=EpAl0piM38cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=EpAl0piM38cC&dq=turing&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=EpAl0piM38cC&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing_The_Enigma.html?hl=&id=EpAl0piM38cC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=EpAl0piM38cC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The official book behind the Academy Award-winning film The Imitation Game, starring Benedict Cumberbatch and Keira Knightley Alan Turing was the mathematician whose cipher-cracking transformed the Second World War."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DjcTkgAACAAJ",
+            "etag": "6HURmiQhwfY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DjcTkgAACAAJ",
+            "volumeInfo": {
+                "title": "Alan Turing",
+                "authors": [
+                    "Andrew Hodges",
+                    "Alan Turing"
+                ],
+                "publishedDate": "2002",
+                "description": "Alan Turing Home Page. Gateway to a large website maintained by Andrew Hodges, biographer of Alan Turing (1912-1954).",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:49947687"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "printType": "BOOK",
+                "averageRating": 3.5,
+                "ratingsCount": 235,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=DjcTkgAACAAJ&dq=turing&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=DjcTkgAACAAJ&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing.html?hl=&id=DjcTkgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=DjcTkgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Alan Turing Home Page. Gateway to a large website maintained by Andrew Hodges, biographer of Alan Turing (1912-1954)."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "7bMnJ3uu_9cC",
+            "etag": "2KZ2ME2nT/0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7bMnJ3uu_9cC",
+            "volumeInfo": {
+                "title": "Turing: Pioneer of the Information Age",
+                "authors": [
+                    "B. Jack Copeland"
+                ],
+                "publisher": "OUP Oxford",
+                "publishedDate": "2012-11-29",
+                "description": "Alan Turing can be regarded as one of the greatest scientists of the 20th century. But who was Turing, and what did he achieve during his tragically short life of 41 years? Best known as the genius who broke Germany's most secret codes during the war of 1939-45, Turing was also the father of the modern computer. Today, all who 'click-to-open' are familiar with the impact of Turing's ideas. Here, B. Jack Copeland provides an account of Turing's life and work, exploring the key elements of his life-story in tandem with his leading ideas and contributions. The book highlights Turing's contributions to computing and to computer science, including Artificial Intelligence and Artificial Life, and the emphasis throughout is on the relevance of his work to modern developments. The story of his contributions to codebreaking during the Second World War is set in the context of his thinking about machines, as is the account of his work in the foundations of mathematics.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780191633782"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "019163378X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 18,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "4.7.7.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7bMnJ3uu_9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7bMnJ3uu_9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=7bMnJ3uu_9cC&printsec=frontcover&dq=turing&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=7bMnJ3uu_9cC&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Turing_Pioneer_of_the_Information_Age.html?hl=&id=7bMnJ3uu_9cC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 14.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 9.99,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "http://books.google.com/books?id=7bMnJ3uu_9cC&dq=turing&hl=&buy=&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 14990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 9990000,
+                            "currencyCode": "USD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Turing_Pioneer_of_the_Information_Age-sample-epub.acsm?id=7bMnJ3uu_9cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Turing_Pioneer_of_the_Information_Age-sample-pdf.acsm?id=7bMnJ3uu_9cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=7bMnJ3uu_9cC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The story of his contributions to codebreaking during the Second World War is set in the context of his thinking about machines, as is the account of his work in the foundations of mathematics."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "QnUPBAAAQBAJ",
+            "etag": "3sd9Ltxncoc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/QnUPBAAAQBAJ",
+            "volumeInfo": {
+                "title": "Alan Turing: The Enigma",
+                "subtitle": "The Book That Inspired the Film \"The Imitation Game\"",
+                "authors": [
+                    "Andrew Hodges"
+                ],
+                "publisher": "Princeton University Press",
+                "publishedDate": "2014-11-10",
+                "description": "A NEW YORK TIMES BESTSELLER The official book behind the Academy Award-winning film The Imitation Game, starring Benedict Cumberbatch and Keira Knightley It is only a slight exaggeration to say that the British mathematician Alan Turing (1912-1954) saved the Allies from the Nazis, invented the computer and artificial intelligence, and anticipated gay liberation by decades--all before his suicide at age forty-one. This New York Times–bestselling biography of the founder of computer science, with a new preface by the author that addresses Turing’s royal pardon in 2013, is the definitive account of an extraordinary mind and life. Capturing both the inner and outer drama of Turing’s life, Andrew Hodges tells how Turing’s revolutionary idea of 1936--the concept of a universal machine--laid the foundation for the modern computer and how Turing brought the idea to practical realization in 1945 with his electronic design. The book also tells how this work was directly related to Turing’s leading role in breaking the German Enigma ciphers during World War II, a scientific triumph that was critical to Allied victory in the Atlantic. At the same time, this is the tragic account of a man who, despite his wartime service, was eventually arrested, stripped of his security clearance, and forced to undergo a humiliating treatment program--all for trying to live honestly in a society that defined homosexuality as a crime. The inspiration for a major motion picture starring Benedict Cumberbatch and Keira Knightley, Alan Turing: The Enigma is a gripping story of mathematics, computers, cryptography, and homosexual persecution.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781400865123"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1400865123"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 768,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 25,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.3.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QnUPBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QnUPBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=QnUPBAAAQBAJ&printsec=frontcover&dq=turing&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=QnUPBAAAQBAJ&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing_The_Enigma.html?hl=&id=QnUPBAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 16.95,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 10.68,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "http://books.google.com/books?id=QnUPBAAAQBAJ&dq=turing&hl=&buy=&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 16950000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 10680000,
+                            "currencyCode": "USD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_The_Enigma-sample-epub.acsm?id=QnUPBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_The_Enigma-sample-pdf.acsm?id=QnUPBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=QnUPBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "At the same time, this is the tragic account of a man who, despite his wartime service, was eventually arrested, stripped of his security clearance, and forced to undergo a humiliating treatment program--all for trying to live honestly in a ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "QJyX175VCj8C",
+            "etag": "4o9MjuyxIRo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/QJyX175VCj8C",
+            "volumeInfo": {
+                "title": "Turing (A Novel about Computation)",
+                "authors": [
+                    "Christos H. Papadimitriou"
+                ],
+                "publisher": "MIT Press",
+                "publishedDate": "2005-02-11",
+                "description": "Our hero is Turing, an interactive tutoring program and namesake (or virtual emanation?) of Alan Turing, World War II code breaker and father of computer science. In this unusual novel, Turing's idiosyncratic version of intellectual history from a computational point of view unfolds in tandem with the story of a love affair involving Ethel, a successful computer executive, Alexandros, a melancholy archaeologist, and Ian, a charismatic hacker. After Ethel (who shares her first name with Alan Turing's mother) abandons Alexandros following a sundrenched idyll on Corfu, Turing appears on Alexandros's computer screen to unfurl a tutorial on the history of ideas. He begins with the philosopher-mathematicians of ancient Greece -- \"discourse, dialogue, argument, proof...can only thrive in an egalitarian society\" -- and the Arab scholar in ninth-century Baghdad who invented algorithms; he moves on to many other topics, including cryptography and artificial intelligence, even economics and developmental biology. (These lessons are later critiqued amusingly and developed further in postings by a fictional newsgroup in the book's afterword.) As Turing's lectures progress, the lives of Alexandros, Ethel, and Ian converge in dramatic fashion, and the story takes us from Corfu to Hong Kong, from Athens to San Francisco -- and of course to the Internet, the disruptive technological and social force that emerges as the main locale and protagonist of the novel.Alternately pedagogical and romantic, Turing (A Novel about Computation) should appeal both to students and professionals who want a clear and entertaining account of the development of computation and to the general reader who enjoys novels of ideas.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0262250780"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780262250788"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 296,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 9,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.5.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QJyX175VCj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QJyX175VCj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=QJyX175VCj8C&printsec=frontcover&dq=turing&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=QJyX175VCj8C&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Turing_A_Novel_about_Computation.html?hl=&id=QJyX175VCj8C"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 22.99,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 13.79,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "http://books.google.com/books?id=QJyX175VCj8C&dq=turing&hl=&buy=&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 22990000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 13790000,
+                            "currencyCode": "USD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Turing_A_Novel_about_Computation-sample-epub.acsm?id=QJyX175VCj8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Turing_A_Novel_about_Computation-sample-pdf.acsm?id=QJyX175VCj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=QJyX175VCj8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In this unusual novel, Turing&#39;s idiosyncratic version of intellectual history from a computational point of view unfolds in tandem with the story of a love affair involving Ethel, a successful computer executive, Alexandros, a melancholy ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "6sElRNGXWFIC",
+            "etag": "1+V6wTZTomY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/6sElRNGXWFIC",
+            "volumeInfo": {
+                "title": "Turing's Cathedral",
+                "subtitle": "The Origins of the Digital Universe",
+                "authors": [
+                    "George Dyson"
+                ],
+                "publisher": "Pantheon",
+                "publishedDate": "2012",
+                "description": "Documents the innovations of a group of eccentric geniuses who developed computer code in the mid-20th century as part of mathematician Alan Turin's theoretical universal machine idea, exploring how their ideas led to such developments as digital television, modern genetics and the hydrogen bomb.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780375422775"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0375422773"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 401,
+                "printType": "BOOK",
+                "categories": [
+                    "Science"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 15,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=6sElRNGXWFIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=6sElRNGXWFIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=6sElRNGXWFIC&printsec=frontcover&dq=turing&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=6sElRNGXWFIC&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Turing_s_Cathedral.html?hl=&id=6sElRNGXWFIC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=6sElRNGXWFIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Documents the innovations of a group of eccentric geniuses who developed computer code in the mid-20th century as part of mathematician Alan Turin&#39;s theoretical universal machine idea, exploring how their ideas led to such developments as ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MWM_AQAAIAAJ",
+            "etag": "QNCmvdepcMI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MWM_AQAAIAAJ",
+            "volumeInfo": {
+                "title": "Turing",
+                "authors": [
+                    "Andrew Hodges"
+                ],
+                "publishedDate": "1997",
+                "description": "This series breaks down the obstacles to understanding the ideas of history's greatest thinkers. Brief, accessible, & affordable, these pocket-sized volumes offer the essential introductions to the great philosophers of the Western tradition.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0415923786"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780415923781"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 58,
+                "printType": "BOOK",
+                "categories": [
+                    "Philosophy"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MWM_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MWM_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=MWM_AQAAIAAJ&q=turing&dq=turing&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=MWM_AQAAIAAJ&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Turing.html?hl=&id=MWM_AQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=MWM_AQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "0IIsoRqw9hgC",
+            "etag": "bwJo989XKWg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0IIsoRqw9hgC",
+            "volumeInfo": {
+                "title": "Alan Turing: Life and Legacy of a Great Thinker",
+                "authors": [
+                    "Christof Teuscher"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2004",
+                "description": "Alan Turing's fundamental contributions to computing led to the development of modern computing technology, and his work continues to inspire researchers in computing science and beyond. This book is the definitive collection of commemorative essays, and the distinguished contributors have expertise in such diverse fields as artificial intelligence, natural computing, mathematics, physics, cryptology, cognitive studies, philosophy and anthropology. The volume spans the entire rich spectrum of Turing's life, research work and legacy. New light is shed on the future of computing science by visionary Ray Kurzweil. Notable contributions come from the philosopher Daniel Dennett, the Turing biographer Andrew Hodges, and the distinguished logician Martin Davis, who provides a first critical essay on an emerging and controversial field termed hypercomputation. A special feature of the book is the play by Valeria Patera which tackles the scandal surrounding the last apple, and presents as an enigma the life, death and destiny of the man who did so much to decipher the Enigma code during the Second World War. Other chapters are modern reappraisals of Turing's work on computability, and deal with the major philosophical questions raised by the Turing Test, while the book also contains essays addressing his less well-known ideas on Fibonacci phyllotaxis and connectionism.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3540200207"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783540200208"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 542,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0IIsoRqw9hgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0IIsoRqw9hgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=0IIsoRqw9hgC&printsec=frontcover&dq=turing&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=0IIsoRqw9hgC&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing_Life_and_Legacy_of_a_Great_T.html?hl=&id=0IIsoRqw9hgC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_Life_and_Legacy_of_a_Great_T-sample-pdf.acsm?id=0IIsoRqw9hgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=0IIsoRqw9hgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book is the definitive collection of commemorative essays, and the distinguished contributors have expertise in such diverse fields as artificial intelligence, natural computing, mathematics, physics, cryptology, cognitive studies, ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "NDiU62j7jeMC",
+            "etag": "eWfikvGMOzs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NDiU62j7jeMC",
+            "volumeInfo": {
+                "title": "The New Turing Omnibus",
+                "subtitle": "Sixty-Six Excursions in Computer Science",
+                "authors": [
+                    "A. K. Dewdney"
+                ],
+                "publisher": "Macmillan",
+                "publishedDate": "1993-07-15",
+                "description": "No other volume provides as broad, as thorough, or as accessible an introduction to the realm of computers as A. K. Dewdney's The Turing Omnibus. Updated and expanded, The Turing Omnibus offers 66 concise, brilliantly written articles on the major points of interest in computer science theory, technology, and applications. New for this tour: updated information on algorithms, detecting primes, noncomputable functions, and self-replicating computers--plus completely new sections on the Mandelbrot set, genetic algorithms, the Newton-Raphson Method, neural networks that learn, DOS systems for personal computers, and computer viruses.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0805071660"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780805071665"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 480,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 10,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.0.0.preview.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=NDiU62j7jeMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NDiU62j7jeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=NDiU62j7jeMC&printsec=frontcover&dq=turing&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=NDiU62j7jeMC&dq=turing&hl=&source=gbs_api",
+                "canonicalVolumeLink": "http://books.google.com/books/about/The_New_Turing_Omnibus.html?hl=&id=NDiU62j7jeMC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://books.google.com/books/reader?id=NDiU62j7jeMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "No other volume provides as broad, as thorough, or as accessible an introduction to the realm of computers as A. K. Dewdney&#39;s The Turing Omnibus."
+            }
+        }
+    ]
+}
