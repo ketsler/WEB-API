@@ -1,0 +1,237 @@
+{
+	"id": "1863056d-613e-614c-f49f-d3702ed3d841",
+	"name": "Assignment_4",
+	"description": "\n",
+	"order": [
+		"35d48252-7fdb-8849-10cb-47450e3048d8",
+		"23ee9111-f7f6-723b-d31f-bceaa95395f3",
+		"d88bfde9-e0a4-226f-cc32-a8b5b24d6262",
+		"2b7d430c-a95c-546a-50a5-6095855d0fea"
+	],
+	"folders": [],
+	"timestamp": 1460240387514,
+	"owner": "301279",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "23ee9111-f7f6-723b-d31f-bceaa95395f3",
+			"headers": "",
+			"url": "http://localhost:9000/movies?ql=select * where name = 'The Dark Knight'",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460760134230,
+			"name": "http://localhost:9000/movies?ql=select * where name = 'The Dark Knight'",
+			"description": "Get a movie by name",
+			"collectionId": "1863056d-613e-614c-f49f-d3702ed3d841",
+			"responses": []
+		},
+		{
+			"id": "2b7d430c-a95c-546a-50a5-6095855d0fea",
+			"headers": "",
+			"url": "http://localhost:9000/delete?name=The Dark Knight Rises",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460760142176,
+			"name": "http://localhost:9000/delete?name=The Dark Knight Rises",
+			"description": "",
+			"collectionId": "1863056d-613e-614c-f49f-d3702ed3d841",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 816,
+					"headers": [
+						{
+							"name": "Connection",
+							"key": "Connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "Content-Length",
+							"key": "Content-Length",
+							"value": "1692",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "Content-Type",
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "Date",
+							"key": "Date",
+							"value": "Sat, 09 Apr 2016 22:53:06 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "ETag",
+							"key": "ETag",
+							"value": "W/\"69c-wWa0SrGnDzByC1OFXz5pUQ\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "X-Powered-By",
+							"key": "X-Powered-By",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"action\":\"get\",\"application\":\"4ed74c60-fc3f-11e5-ba6e-537eb2d552c2\",\"params\":{},\"path\":\"/movies\",\"uri\":\"https://api.usergrid.com/agale/sandbox/movies\",\"entities\":[{\"uuid\":\"dc0355f4-fe90-11e5-b79c-b33fc5022962\",\"type\":\"movie\",\"name\":\"Superbad\",\"created\":1460233382462,\"modified\":1460239191404,\"actors\":[\"Michael Cera\",\"Jonah Hill\",\"Christopher Mintz-Plasse\"],\"metadata\":{\"path\":\"/movies/dc0355f4-fe90-11e5-b79c-b33fc5022962\"},\"released\":\"2007\"},{\"uuid\":\"04c2daaa-fe91-11e5-b715-85e18045867e\",\"type\":\"movie\",\"name\":\"Wayne's World\",\"created\":1460233450826,\"modified\":1460239247946,\"actors\":[\"Mike Myers\",\"Dana Carvey\",\"Rob Lowe\"],\"metadata\":{\"path\":\"/movies/04c2daaa-fe91-11e5-b715-85e18045867e\"},\"released\":\"1992\"},{\"uuid\":\"4ec5ff6a-fe91-11e5-aca3-87a553612f4b\",\"type\":\"movie\",\"name\":\"Star Wars: Episode VII - The Force Awakens\",\"created\":1460233574998,\"modified\":1460239276440,\"actors\":[\"Daisy Ridley\",\"John Boyega\",\"Oscar Isaac\"],\"metadata\":{\"path\":\"/movies/4ec5ff6a-fe91-11e5-aca3-87a553612f4b\"},\"released\":\"2015\"},{\"uuid\":\"9873d844-fe91-11e5-8227-a7250435049a\",\"type\":\"movie\",\"name\":\"The Big Lebowski\",\"created\":1460233698611,\"modified\":1460239309120,\"actors\":[\"Jeff Bridges\",\"John Goodman\",\"Steve Buscemi\"],\"metadata\":{\"path\":\"/movies/9873d844-fe91-11e5-8227-a7250435049a\"},\"released\":\"1998\"},{\"uuid\":\"5f78330a-fea5-11e5-82c9-2f199c19389d\",\"type\":\"movie\",\"name\":\"Space Jam\",\"created\":1460242192944,\"modified\":1460242261797,\"actors\":[\"Michael Jordan\",\"Wayne Knight\",\"Theresa Randle\"],\"getOnExist\":true,\"metadata\":{\"path\":\"/movies/5f78330a-fea5-11e5-82c9-2f199c19389d\"},\"release\":\"1996\"}],\"timestamp\":1460242375269,\"duration\":33,\"organization\":\"agale\",\"applicationName\":\"sandbox\",\"count\":5}",
+					"language": "javascript",
+					"rawDataType": "text",
+					"previewType": "html",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"state": {
+						"size": "normal"
+					},
+					"id": "bd0a3b1a-d174-69de-0ea9-9b028f2f11a4",
+					"name": "Delete movie successfully",
+					"request": {
+						"url": "http://localhost:3001/delete?name=Ex Machina",
+						"headers": [],
+						"data": null,
+						"method": "DELETE",
+						"dataMode": "params"
+					},
+					"owner": "301279"
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 309,
+					"headers": [
+						{
+							"name": "Connection",
+							"key": "Connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "Content-Length",
+							"key": "Content-Length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "Content-Type",
+							"key": "Content-Type",
+							"value": "text/html; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "Date",
+							"key": "Date",
+							"value": "Sat, 09 Apr 2016 22:54:07 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "ETag",
+							"key": "ETag",
+							"value": "W/\"14-W5Fq8FjPENrsQ0A19owDUQ\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "X-Powered-By",
+							"key": "X-Powered-By",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "Error finding entity",
+					"language": "html",
+					"rawDataType": "text",
+					"previewType": "html",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"state": {
+						"size": "normal"
+					},
+					"id": "7ce9aed9-3ff0-0cca-505d-6058eee00cea",
+					"name": "Delete movie failure - entity not found",
+					"request": {
+						"url": "http://localhost:3001/delete?name=Not a real movie",
+						"headers": [],
+						"data": null,
+						"method": "DELETE",
+						"dataMode": "params"
+					},
+					"owner": "301279"
+				}
+			]
+		},
+		{
+			"id": "35d48252-7fdb-8849-10cb-47450e3048d8",
+			"headers": "",
+			"url": "http://localhost:9000/movies",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460760144311,
+			"name": "http://localhost:9000/movies",
+			"description": "",
+			"collectionId": "1863056d-613e-614c-f49f-d3702ed3d841",
+			"responses": []
+		},
+		{
+			"id": "d88bfde9-e0a4-226f-cc32-a8b5b24d6262",
+			"headers": "",
+			"url": "http://localhost:9000/create?name=The Dark Knight Rises&release=2012&actors=Christian Bales&actors=Morgan Freeman&actors=Tom Hardy",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1460760137798,
+			"name": "http://localhost:9000/create?name=The Dark Knight Rises&release=2012&actors=Christian Bales&actors=Morgan Freeman&actors=Tom Hardy",
+			"description": "Add movie entity",
+			"collectionId": "1863056d-613e-614c-f49f-d3702ed3d841",
+			"responses": []
+		}
+	]
+}
