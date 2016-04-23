@@ -1,0 +1,9 @@
+{
+  "name": "assignment3",
+  "main": "assignment3.js",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "github": "^0.2.3",
+    "express": "^4.12.3"
+  }
+}
